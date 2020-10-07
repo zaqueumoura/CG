@@ -17,4 +17,4 @@ Para que o prorama possa ser executado devemos primeiramente dar o export baixo:
 
 Plot da imagem
 
-<img src= https://github.com/zaqueumoura/ICG/blob/master/Tarefa_02/Imagem.png >
+<img src= https://github.com/zaqueumoura/ICG/blob/main/01_Tarefa/captura%20CG.png>
