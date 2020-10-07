@@ -1,15 +1,15 @@
 Introdução a Computação Gráfica
 
 ## Aluno
-Zaqueu Moura da Silva - 11228436
+Zaqueu Moura da Silva - 11413593
 
 
-## Compilando e Executando um programa OpenGl Moderno
-O objetivo deste trabalho é verificar se o ambiente de desenvolvimento em OpenGL 3.3 está corretamente configurado.
+## OpenGl Moderno
+O objetivo deste trabalho é configurar o ambiente de desenvolvimento em OpenGL 3.3 corretamente
 
 Para que o prorama possa ser executado devemos primeiramente dar o export baixo:
-## $ sudo apt-get install freeglut3-dev
-## $ export MESA_GL_VERSION_OVERRIDE=3.0
+#### $ sudo apt-get install freeglut3-dev
+#### $ export MESA_GL_VERSION_OVERRIDE=3.0
 
 #### $ make
 #### $ ./moderngl_hello_world
